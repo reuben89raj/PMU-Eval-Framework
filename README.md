@@ -2,6 +2,7 @@
 Framework to evaluate resiliency of PMU networks
 
 To execute a particular design provide the following command:
+
 python3 <filename.py> <num_links> <search_alg> > /tmp/out
 
 Examples:
