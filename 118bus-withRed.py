@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import importlib
 
-import topologies_2
+import Topo-118Bus-withRedundancy
 
 global switchPathCount, pdcPathCount
 switchPathCount = dict()
