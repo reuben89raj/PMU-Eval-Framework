@@ -103,7 +103,7 @@ if __name__ == "__main__":
 
 	# Get required network from the topologies.py file 
     
-	pmuNetwork, masterPathList, pmuBusMapping, numBuses = topologies_2.bus118()
+	pmuNetwork, masterPathList, pmuBusMapping, numBuses = Topo-118Bus-withRedundancy.bus118()
 
 	# Dictionary to store observability for each link down combination
 	observabilityDict = dict()
